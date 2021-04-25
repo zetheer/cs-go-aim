@@ -2,9 +2,9 @@
 layout: default
 ---
 
-link de mapa para csgo
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[link del mapa](https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891)
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -12,13 +12,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de una forma bastante agradable, con distintas funcionalidades y con un sistema de rangos que ayuda a la competitividad dentro del juego (Potencia la motivacion), además de darte la oportunidad de crear tus propios escenarios para una mayor concentración en las debilidades indivuduales y asi trabajar con mayor enfasis en lo que se quiere mejorar de que da persona. Por otro lado, si no te da el cerebro para poder crear tus propios escenarios, tiene una gran variedad de escenarios ya hechos y con varios modos, con su respectiva categoria, (rapidez, reaccion, etc), y diferentes mapeados para una mayor diferenciacion en diferentes mapas. Es el juego gratuito de steam: "Aim lab": (link de el juego).
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+TIPS PARA MEJORAR EL AIM:
+> Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) Aim = "Apuntar", ya sabiendo esto se tiene una breve idea de lo que es el aim.
+> Para tener un buen aim no solo se necesita entretar el brazo y asi tener una buena memoria muscular, si no afectan muchos factores además de ser "malo moviendo la mano" y todo esto lo vamos a ver enseguida:
+>  Factores
 
 ### Header 3
 
