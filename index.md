@@ -4,7 +4,7 @@ layout: default
 
 link de mapa para csgo
 
-[link dl mapa](./https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891).
+[link del mapa](https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891)
 
 There should be whitespace between paragraphs.
 
