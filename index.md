@@ -1,17 +1,24 @@
-mejoras de aim 
+---
+_AIM_
+---
+> Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) **Aim = "Apuntar"**, ya sabiendo esto se tiene una breve idea de lo que es el aim y podemos comenzar.
 
-# Header 1
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+##Apps y/o mapas
 Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de una forma bastante agradable, con distintas funcionalidades y con un sistema de rangos que ayuda a la competitividad dentro del juego (Potencia la motivacion), además de darte la oportunidad de crear tus propios escenarios para una mayor concentración en las debilidades indivuduales y asi trabajar con mayor enfasis en lo que se quiere mejorar de que da persona. Por otro lado, si no te da el cerebro para poder crear tus propios escenarios, tiene una gran variedad de escenarios ya hechos y con varios modos, con su respectiva categoria, (rapidez, reaccion, etc), y diferentes mapeados para una mayor diferenciacion en diferentes mapas. Es el juego gratuito de steam: "Aim lab": (link de el juego).
 
 ![Branching](http://wzgamerslab.net/img_games/2018_tri1/aim_lab_principal.jpg)
 ## Header 2
 
 
-TIPS PARA MEJORAR EL AIM:
-> Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) Aim = "Apuntar", ya sabiendo esto se tiene una breve idea de lo que es el aim.
+ ##TIPS PARA MEJORAR EL AIM:
 > Para tener un buen aim no solo se necesita entretar el brazo y asi tener una buena memoria muscular, si no afectan muchos factores además de ser "malo moviendo la mano" y todo esto lo vamos a ver enseguida:
->  Factores
+ ##
 
 ### Header 3
 
@@ -30,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Header 
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
