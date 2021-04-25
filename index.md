@@ -1,12 +1,14 @@
 *****
-_AIM_.
+_AIM_
 *****
+
 Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) **Aim = "Apuntar"**, ya sabiendo esto se tiene una breve idea de lo que es el aim y podemos comenzar.
 
 
 ¿Donde puedo entrenar?
 
 ##Apps y/o mapas.
+
 Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de una forma bastante agradable, con distintas funcionalidades y con un sistema de rangos que ayuda a la competitividad dentro del juego (Potencia la motivacion), además de darte la oportunidad de crear tus propios escenarios para una mayor concentración en las debilidades indivuduales y asi trabajar con mayor enfasis en lo que se quiere mejorar de que da persona. Por otro lado, si no te da el cerebro para poder crear tus propios escenarios, tiene una gran variedad de escenarios ya hechos y con varios modos, con su respectiva categoria, (rapidez, reaccion, etc), y diferentes mapeados para una mayor diferenciacion en diferentes mapas. Es el juego gratuito de steam: [aim lab](https://store.steampowered.com/app/714010/Aim_Lab/?utm_campaign=30daytopkws&utm_medium=cpc&utm_source=google&utm_content=competing-trainer-games&utm_term=aimlab&gclid=Cj0KCQjwppSEBhCGARIsANIs4p7GXSZ1887za23EC0pkV4SuuiC1IPIrF2hMhtrR6bDPNLefVyj_fl4aAj3AEALw_wcB).
 
 
