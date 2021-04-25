@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+link de mapa para csgo
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891).
 
 There should be whitespace between paragraphs.
 
