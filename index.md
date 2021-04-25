@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ##Apps y/o mapas
 Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de una forma bastante agradable, con distintas funcionalidades y con un sistema de rangos que ayuda a la competitividad dentro del juego (Potencia la motivacion), además de darte la oportunidad de crear tus propios escenarios para una mayor concentración en las debilidades indivuduales y asi trabajar con mayor enfasis en lo que se quiere mejorar de que da persona. Por otro lado, si no te da el cerebro para poder crear tus propios escenarios, tiene una gran variedad de escenarios ya hechos y con varios modos, con su respectiva categoria, (rapidez, reaccion, etc), y diferentes mapeados para una mayor diferenciacion en diferentes mapas. Es el juego gratuito de steam: "Aim lab": (link de el juego).
 
-
+![Branching](http://wzgamerslab.net/img_games/2018_tri1/aim_lab_principal.jpg)
+## Header 2
 
 
  ##TIPS PARA MEJORAR EL AIM:
