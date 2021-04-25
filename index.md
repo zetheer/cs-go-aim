@@ -1,8 +1,8 @@
 *****
-_AIM_
+_*AIM*_
 *****
 
-Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) **Aim = "Apuntar"**, ya sabiendo esto se tiene una breve idea de lo que es el aim y podemos comenzar.
+Primero que nada, ¿que es el aim? Para responder a esta pregunta veamos que significa en español (para los personas que no saben ingles claro, o no estan familiarizadas con esta palabra) *Aim = "Apuntar"*, ya sabiendo esto se tiene una breve idea de lo que es el aim y podemos comenzar.
 
 
 ¿Donde puedo entrenar?
