@@ -1,2 +1,2 @@
 # AIM
-como mejorar aim
+cómo mejorar aim
