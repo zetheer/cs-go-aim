@@ -63,7 +63,7 @@ Meta = **Tener buen aim**
 
  >4.  Emociones:
  
- Cada jugador que tenga emociones diversas va a jugar de distintas maneras, es decir que si un jugador esta motivado, feliz, con ganas de seguir mejorando va a ganar de una forma mas facil al enemigo, pasa todo lo contrario si el jugador esta desmotivado, distraido o triste, jugara mal, tomara malas deciciones y mo ayudara nda al equipo. un jugador debe tener un buen ambiente para poder jugar y tener un buen aim porque sin estos factores solo sera un bot en la partida.
+ Cada jugador que tenga emociones diversas va a jugar de distintas maneras, es decir que, si un jugador está motivado, feliz, con ganas de seguir mejorando va a ganarle de una forma más fácil al enemigo, pasa todo lo contrario si el jugador esta desmotivado, distraído o triste, jugara mal, tomara malas decisiones y no ayudara en nada al equipo. Un jugador debe tener un buen ambiente para poder jugar y tener un buen Aim porque sin estos factores solo será un Bot en la partida.
 
 
 
