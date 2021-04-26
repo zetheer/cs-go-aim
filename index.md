@@ -36,15 +36,13 @@ Factores que influencian al mal "aim":
 3. Lag
 
 
+5. Emociones:
 
 
+6. Poca hidratación: 
 
 
   
- 4. Emociones:
-  ~
- 5. Poca hidratación: 
-  ~
  
 
 
