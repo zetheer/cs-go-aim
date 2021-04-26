@@ -1,2 +1,2 @@
-# cs-go-aim
+# AIM
 como mejorar aim
