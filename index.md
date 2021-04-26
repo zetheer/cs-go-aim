@@ -31,10 +31,10 @@ Meta = **Tener buen aim**
 	-Mejorar en la velocidad de mis disparos
  
 - **Mousepad**
-> El mousepad es importante porque
+> No hay nada más frustrante que tener una superficie pequeña que restringa los movimientos y la velocidad del ratón.  Entre el kit de cualquier Gamer que quiere mejorar su Aim tiene que estar un buen Mousepad. ¿Pero cómo sé que Mousepad comprarme? No necesariamente deba ser el más caro que encuentres en el mercado hay que tener en cuenta factores a largo plazo como la durabilidad, desgaste de los bordes, Las dimensiones, la limpieza y fricción con los pad o surfers de nuestro ratón. 
 
 
->  
+
  
 
  
