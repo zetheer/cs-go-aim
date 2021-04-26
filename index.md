@@ -14,7 +14,7 @@ Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de u
 
 ![Branching](http://wzgamerslab.net/img_games/2018_tri1/aim_lab_principal.jpg)
 
->aqui hay una rutina de un jugador competitivo del famoso juego csgo [rutina](https://steamcommunity.com/sharedfiles/filedetails/?id=2421757108)
+>aqui hay una rutina de un jugador competitivo del famoso juego csgo [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2421757108)
 
 
  ##TIPS PARA MEJORAR EL AIM
