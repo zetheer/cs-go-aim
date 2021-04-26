@@ -52,12 +52,10 @@ Meta = **Tener buen aim**
 
 3. Lag
 
-ads
 
 
-4. Emociones
+4. Emociones: cada jugador que tenga emociones diversas va a jugar de distintas maneras, es decir que si un jugador esta motivado, feliz, con ganas de seguir mejorando va a ganar de una forma mas facil al enemigo, pasa todo lo contrario si el jugador esta desmotivado, distraido o triste, jugara mal, tomara malas deciciones y mo ayudara nda al equipo. un jugador debe tener un buen ambiente para poder jugar y tener un buen aim porque sin estos factores solo sera un bot en la partida.
 
-asd
 
 5. Poca hidratación 
 
