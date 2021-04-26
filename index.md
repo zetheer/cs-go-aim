@@ -25,7 +25,7 @@ Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de u
  
 	-Mejorar en el rastreo de enemigos
   
-		-Mejorar en la velocidad de mis disparos
+	-Mejorar en la velocidad de mis disparos
  
  
  
