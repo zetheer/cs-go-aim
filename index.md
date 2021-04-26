@@ -23,9 +23,11 @@ Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de u
 
 -**Tener buen aim**
  
- -Mejorar en el rastreo de enemigos
+	-Mejorar en el rastreo de enemigos
   
-  -Mejorar en la velocidad de mis disparos
+		-Mejorar en la velocidad de mis disparos
+ 
+ 
  
  
 **Factores que influencian al mal "aim"**:
