@@ -22,7 +22,9 @@ Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de u
 -Quizá se vea como algo obvio, pero nunca esta más decirles que hay que como todas las cosas entrenar el **aim**, ya que es una doctrina bastante peculiar, se debe entrenar de todas formas, ¿Como se debe entrenar?, con los habitos, motivación, y nunca perder el objetivo por el cúal estamos entrenando. Dejar en claro que no hay que entrenar exhaustivamente, pero si de forma constante y de a poco, no se sobre esfuerzen llevando el entrenamiento mas dificil de todos si aún no han ni empezado a entrenar, la idea es que tenga objetivos dentro de la meta principal que seria el mejorar el aim, coomo por ejemplo:
 
 -**Tener buen aim**
+ 
  -Mejorar en el rastreo de enemigos
+  
   -Mejorar en la velocidad de mis disparos
  
  
