@@ -39,7 +39,7 @@ Factores que influencian al mal "aim":
 5. Emociones:
 
 
-6. Poca hidratación: 
+6. Poca hidratación: awa
 
 
   
