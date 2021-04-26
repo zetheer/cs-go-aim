@@ -47,14 +47,15 @@ Meta = **Tener buen aim**
 ![Octocat](https://cdn.shopify.com/s/files/1/0427/1069/6104/products/G403_1_-500x500_300x300.png?v=1608232317)
   
 2. Postura
- 
->  La postura posiblemente no sea algo que a muchos les importe, el estar con la espalda inclinada a la larga generara malos habitos, y esos malos habitos conllevan un dolor insufrirle con el tiempo, ¿Pero que tiene que ver la postura con el "aim"? Facil, Uno tiene que estar concentrado para poder alcanzar ese aim deseado, pero que pasa si hay algo que nos molesta a la hora de jugar, unos dolores no tan graves pero que son molestos, muy muy molestos, que nos desconcentra a la hora de jugar, pero dejando de lado los dolores que pueden trar y la desconcentración al estar acostados jugando no tienes la misma movilidad en el brazo para realizar esos queridos headshots, o tener que adaptarse a un pequeño espacio por estar mal colocado o sentado, en resumidas cuentas es importante la "comodidad sana al jugar".
+ >  La postura posiblemente no sea algo que a muchos les importe, el estar con la espalda inclinada a la larga generara malos habitos, y esos malos habitos conllevan un dolor insufrirle con el tiempo, ¿Pero que tiene que ver la postura con el "aim"? Facil, Uno tiene que estar concentrado para poder alcanzar ese aim deseado, pero que pasa si hay algo que nos molesta a la hora de jugar, unos dolores no tan graves pero que son molestos, muy muy molestos, que nos desconcentra a la hora de jugar, pero dejando de lado los dolores que pueden trar y la desconcentración al estar acostados jugando no tienes la misma movilidad en el brazo para realizar esos queridos headshots, o tener que adaptarse a un pequeño espacio por estar mal colocado o sentado, en resumidas cuentas es importante la "comodidad sana al jugar".
 
-3. >Lag
+3.
+>Lag
 
 
 
-4. >Emociones: cada jugador que tenga emociones diversas va a jugar de distintas maneras, es decir que si un jugador esta motivado, feliz, con ganas de seguir mejorando va a ganar de una forma mas facil al enemigo, pasa todo lo contrario si el jugador esta desmotivado, distraido o triste, jugara mal, tomara malas deciciones y mo ayudara nda al equipo. un jugador debe tener un buen ambiente para poder jugar y tener un buen aim porque sin estos factores solo sera un bot en la partida.
+4. 
+>Emociones: cada jugador que tenga emociones diversas va a jugar de distintas maneras, es decir que si un jugador esta motivado, feliz, con ganas de seguir mejorando va a ganar de una forma mas facil al enemigo, pasa todo lo contrario si el jugador esta desmotivado, distraido o triste, jugara mal, tomara malas deciciones y mo ayudara nda al equipo. un jugador debe tener un buen ambiente para poder jugar y tener un buen aim porque sin estos factores solo sera un bot en la partida.
 
 
 
