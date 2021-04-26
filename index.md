@@ -27,7 +27,13 @@ Tambien una de las aplicaciones/juego que sirve para poder practicar el aim de u
   
 	-Mejorar en la velocidad de mis disparos
  
+> Mousepad
+El mousepad es importante porque
+
+
+>  
  
+
  
  
 **Factores que influencian al mal "aim"**:
