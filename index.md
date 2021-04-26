@@ -70,6 +70,12 @@ Meta = **Tener buen aim**
 
 
 
+
+
+
+Integrantes : Victor Rocha - Gonzalo Gómez - Manuel Ortega.
+
+
   
  
 
