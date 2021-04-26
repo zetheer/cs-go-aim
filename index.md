@@ -50,7 +50,7 @@ Meta = **Tener buen aim**
  
    La postura posiblemente no sea algo que a muchos les importe, el estar con la espalda inclinada a la larga generara malos habitos, y esos malos habitos conllevan un dolor insufrirle con el tiempo, ¿Pero que tiene que ver la postura con el "aim"? Facil, Uno tiene que estar concentrado para poder alcanzar ese aim deseado, pero que pasa si hay algo que nos molesta a la hora de jugar, unos dolores no tan graves pero que son molestos, muy muy molestos, que nos desconcentra a la hora de jugar, pero dejando de lado los dolores que pueden trar y la desconcentración al estar acostados jugando no tienes la misma movilidad en el brazo para realizar esos queridos headshots, o tener que adaptarse a un pequeño espacio por estar mal colocado o sentado, en resumidas cuentas es importante la "comodidad sana al jugar".
    
-         ![octocat](https://thumbs.dreamstime.com/t/desarrollo-de-una-postura-inclinada-con-edad-mostrando-la-curvatura-cada-vez-mayor-espina-dorsal-105228516.jpg)
+ ![octocat](https://thumbs.dreamstime.com/t/desarrollo-de-una-postura-inclinada-con-edad-mostrando-la-curvatura-cada-vez-mayor-espina-dorsal-105228516.jpg)
 
  >3. Lag
 
